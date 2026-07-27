@@ -1,4 +1,3 @@
-<img width="801" height="771" alt="photo_2026-07-27_19-12-27" src="https://github.com/user-attachments/assets/34ce1a68-48d0-431a-9860-0378d6c6ae4a" />
 # Porto Seguro’s Safe Driver Prediction
 
 ## О проекте
